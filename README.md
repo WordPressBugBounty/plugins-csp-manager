@@ -1,0 +1,1 @@
+# plugins-csp-manager
